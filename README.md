@@ -54,7 +54,7 @@
 
 ---
 
-### 🎯 Goals for 2025:
+### 🎯 Goals for 2026:
 - 🔥 Build unique AI/ML projects  
 - 👩‍💻 Contribute to open-source  
 - 💼 Land a role in ML or full-stack development  
@@ -64,7 +64,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on AI-Financial-Fraud-Detection-System
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
